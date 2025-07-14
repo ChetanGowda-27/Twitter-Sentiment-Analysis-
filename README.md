@@ -1,4 +1,4 @@
-# 🐦 Twitter Sentiment Analysis - Natural Language Processing
+#  Twitter Sentiment Analysis - Natural Language Processing
 
 ## 📌 Overview
 
